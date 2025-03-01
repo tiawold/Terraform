@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/providers/registry.terraform.io/kreuzwerker/docker/3.0.2/darwin_arm64/CHANGELOG.md
+.terraform/providers/registry.terraform.io/kreuzwerker/docker/3.0.2/darwin_arm64/LICENSE
+.terraform/providers/registry.terraform.io/kreuzwerker/docker/3.0.2/darwin_arm64/terraform-provider-docker_v3.0.2
